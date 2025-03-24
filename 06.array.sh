@@ -1,6 +1,7 @@
 #!/bin/bash/
 
 movies=("rrr" "salaar" "kgf")
+
 #size of above array is 3.
 #index are 0,1,2
 
