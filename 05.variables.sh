@@ -1,6 +1,6 @@
 #!/bin/bash/
 
-echo "please enter user name"
+echo "please enter username"
 
 read username #username is a variable
 
