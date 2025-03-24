@@ -7,6 +7,6 @@ movies=("rrr" "salaar" "kgf")
 
 #lists always starts with 0.
 
-echo "first movie is: {$movie[0]}"
-echo "first movie is: {$movie[1]}"
-echo "first movie is: {$movie[@]}"
+echo "first movie is: ${movie[0]}"
+echo "first movie is: ${movie[1]}"
+echo "first movie is: ${movie[@]}"
